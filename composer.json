@@ -1,5 +1,5 @@
 {
-  "name": "filaforge/filament-database-query"]*",
+  "name": "filaforge/filament-database-query",
   "version": "0.1.0",
   "description": "Database query plugin: SQL query explorer",
   "type": "library",
