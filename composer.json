@@ -1,5 +1,5 @@
 {
-  "name": "filaforge/database-query",
+  "name": "filament/database-query",
   "description": "Database query plugin: SQL query explorer",
   "type": "library",
   "license": "MIT",
